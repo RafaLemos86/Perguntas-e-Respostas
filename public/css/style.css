@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(207, 207, 207);
+}
+
+.container {
+    box-shadow: 0px 3px 1px rgb(156, 156, 156);
+}
+
+.logo1 {
+    height: 50px;
+    width: 50px;
+}
+
+#formulario-pergunta {
+    margin-top: 4%;
+}

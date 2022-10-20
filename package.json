@@ -1,0 +1,30 @@
+{
+  "name": "perguntas_e_respostas",
+  "version": "1.0.0",
+  "description": "Uma plataforma de perguntas e respostas estilo Yahoo respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaLemos86/Perguntas-e-Respostas.git"
+  },
+  "author": "Rafael Lemos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaLemos86/Perguntas-e-Respostas/issues"
+  },
+  "homepage": "https://github.com/RafaLemos86/Perguntas-e-Respostas#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "bootstrap": "^4.0.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "jquery": "^3.6.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "popper.js": "^1.16.1",
+    "sequelize": "^6.24.0"
+  }
+}
