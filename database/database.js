@@ -1,10 +1,10 @@
 // criando conexao com sequelize
 const Sequelize = require('sequelize');
 // conectando ao banco
-const connection = new Sequelize('perguntas', 'root', '0000', {
+const connection = new Sequelize('database.name', 'user', 'database.password', {
     host: 'localhost',
     dialect: 'mysql',
-    port: '3307'
+    port: ''
 });
 // exportando a conexao
 module.exports = connection;
