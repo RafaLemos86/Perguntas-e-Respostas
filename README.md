@@ -5,13 +5,14 @@
 
 Este projeto consiste em uma plataforma de perguntas e respostas, com inspiração no Yahoo Answers, onde os usuários cadastrados através de um email e senha podem inserir perguntas e outros usuários podem respondê-las. Todos os usuários da plataforma têm acesso a todas as perguntas e respostas inseridas no sistema.
 
-## :white_check_mark: Tecnologias Utilizadas
+## :white_check_mark: Principais Tecnologias Utilizadas
 
 - EJS
 - Javascript
 - Node.Js
 - Bootstrap
-
+- Express
+ 
 ## :point_right: Como Iniciar o Projeto
 
 1. Instalar os pacotes necessários
